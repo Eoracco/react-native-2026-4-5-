@@ -31,8 +31,6 @@ export default function App() {
       >
         Claude Max Subscription
       </Link>
-
-
     </View>
   );
 }
