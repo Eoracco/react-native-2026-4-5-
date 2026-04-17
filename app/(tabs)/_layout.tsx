@@ -1,8 +1,8 @@
 
-import { tabs } from "@/constents/data";
+import { tabs } from "@/constants/data";
 import { Tabs } from "expo-router";
 import { View } from "react-native";
-import { colors, components } from "@/constents/theme";
+import { colors, components } from "@/constants/theme";
 import clsx from "clsx";
 import { Image } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
